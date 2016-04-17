@@ -2,7 +2,7 @@ define(function() {
 	var myModule = {
 		sayHello: function() {
 			alert("Hello World");
-			alert(this.hoppy);
+			alert(this.hobby);
 		},
 	}
 
@@ -13,7 +13,7 @@ define(function() {
 		"Nationality":{
 			value:"China"
 		},
-		hoppy:{
+		hobby:{
 			value:"reading books"
 		}
 
